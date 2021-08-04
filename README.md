@@ -11,13 +11,20 @@
 ## Data Science Projects
 
 ### [Real State Insights](https://github.com/marianaborgal/P001_RealState_Insights)
-* **Business Problem:** House Rocket business model consists of purchasing and reselling properties through a digital platform. The CEO wants mobile access to which properties the company should buy.xxx
+* **Business Problem:** House Rocket business model consists of purchasing and reselling properties through a digital platform. The CEO wants mobile access to which properties the company should buy.
 * **Solution:** Develop a online dashboard with selected properties, a map view with properties distribution, a table with attributes filters, and the expected profit for each property.
 * **Conclusion:** Based on business criteria, from 21,436 available properties, 10,707 should be bought by House Rocket and could result on a US$1,249,116,423.00 profit. This results on a 30.0 % gross revenue.
 <br>Maximum Value Invested: US$4,163,721,410.00<br>
 Maximum Value Returned: US$5,412,837,833.00<br>
 Maximum Expected Profit: US$1,249,116,423.00<br>
 * **Repository:** [Real State Insights](https://github.com/marianaborgal/P001_RealState_Insights)
+
+### [Sales Predictions for a Drogstore Chain](https://github.com/marianaborgal/P002_Sales_Predictions)
+* **Business Problem:** 
+* **Solution:**
+* **Conclusion:** 
+* **Repository:** [Sales Predictions for a Drugstore Chain](https://github.com/marianaborgal/P002_Sales_Predictions)
+
 
 
 ## GitHub Stats
