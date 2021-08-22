@@ -19,7 +19,7 @@ Maximum Value Returned: US$5,412,837,833.00<br>
 Maximum Expected Profit: US$1,249,116,423.00<br>
 * **Repository:** [Real State Insights](https://github.com/marianaborgal/P001_RealState_Insights)
 
-### [Sales Predictions for a Drogstore Chain](https://github.com/marianaborgal/P002_Sales_Predictions)
+### [Sales Predictions for a Drugstore Chain](https://github.com/marianaborgal/P002_Sales_Predictions)
 * **Business Problem:** 
 * **Solution:**
 * **Conclusion:** 
